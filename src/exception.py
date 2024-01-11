@@ -1,6 +1,6 @@
 import os, sys
-from src.logger import logging as logger_logging
-
+from Logger.logger import logging
+#import src.logger as lg
 
 def error_message_detailed(error, error_detailed:sys):
     _, _, exc_tb = error_detailed.exc_info()
@@ -26,5 +26,6 @@ if __name__ == "__main__":
         a = 1/0
     
     except Exception as e:
-        logger_logging.info("Division by zero")
+        #lg.logging.info("Division by zero")
+        logging.info("Division by zero")
         raise CustomException(e,sys)

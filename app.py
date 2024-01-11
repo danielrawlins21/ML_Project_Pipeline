@@ -1,5 +1,5 @@
 from flask import Flask
-from src.logger import logging
+from src.Logger.logger import logging
 from src.exception import CustomException
 import os, sys
 
