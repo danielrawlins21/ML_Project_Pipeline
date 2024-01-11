@@ -1,0 +1,16 @@
+[ 2024-01-10 21:30:40,055] 96 werkzeug - INFO -[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+[ 2024-01-10 21:30:40,055] 96 werkzeug - INFO -[33mPress CTRL+C to quit[0m
+[ 2024-01-10 21:30:40,058] 96 werkzeug - INFO - * Restarting with stat
+[ 2024-01-10 21:30:40,225] 96 werkzeug - WARNING - * Debugger is active!
+[ 2024-01-10 21:30:40,342] 96 werkzeug - INFO - * Debugger PIN: 103-157-119
+[ 2024-01-10 21:31:12,386] 15 root - INFO -Error occured in python script nam [/home/draeghonvm/Projects/Pipeline_project_ML/ML_Project_Pipeline/app.py] line number [12] error message [We are testing our custom file]
+[ 2024-01-10 21:31:12,386] 96 werkzeug - INFO -127.0.0.1 - - [10/Jan/2024 21:31:12] "GET / HTTP/1.1" 200 -
+[ 2024-01-10 21:31:12,397] 15 root - INFO -Error occured in python script nam [/home/draeghonvm/Projects/Pipeline_project_ML/ML_Project_Pipeline/app.py] line number [12] error message [We are testing our custom file]
+[ 2024-01-10 21:31:12,397] 96 werkzeug - INFO -127.0.0.1 - - [10/Jan/2024 21:31:12] "GET / HTTP/1.1" 200 -
+[ 2024-01-10 21:31:15,809] 15 root - INFO -Error occured in python script nam [/home/draeghonvm/Projects/Pipeline_project_ML/ML_Project_Pipeline/app.py] line number [12] error message [We are testing our custom file]
+[ 2024-01-10 21:31:15,809] 96 werkzeug - INFO -127.0.0.1 - - [10/Jan/2024 21:31:15] "GET / HTTP/1.1" 200 -
+[ 2024-01-10 21:31:31,712] 15 root - INFO -Error occured in python script nam [/home/draeghonvm/Projects/Pipeline_project_ML/ML_Project_Pipeline/app.py] line number [12] error message [We are testing our custom file]
+[ 2024-01-10 21:31:31,715] 96 werkzeug - INFO -127.0.0.1 - - [10/Jan/2024 21:31:31] "GET / HTTP/1.1" 200 -
+[ 2024-01-10 21:31:34,824] 15 root - INFO -Error occured in python script nam [/home/draeghonvm/Projects/Pipeline_project_ML/ML_Project_Pipeline/app.py] line number [12] error message [We are testing our custom file]
+[ 2024-01-10 21:31:34,825] 96 werkzeug - INFO -127.0.0.1 - - [10/Jan/2024 21:31:34] "GET / HTTP/1.1" 200 -
